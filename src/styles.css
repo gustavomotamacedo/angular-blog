@@ -11,5 +11,6 @@
   box-sizing: border-box;
   background-color: #111111;
   font-family: var(--fonte-roboto);
+  color: white;
 }
 
