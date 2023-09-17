@@ -2,11 +2,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
 
 :root {
-  --verde-escuro: #104025;
-  --verde-claro: #53735B;
-  --amarelo: #EEF26B;
-  --rosa: #C9A0F2;
-  --beje: #D9C9BA;
   --fonte-roboto:  'Roboto', sans-serif;
 }
 
@@ -14,7 +9,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  background-color: var(--verde-escuro);
+  background-color: #111111;
   font-family: var(--fonte-roboto);
 }
 
