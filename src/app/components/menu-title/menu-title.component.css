@@ -1,7 +1,9 @@
 .container-menu-title {
+  width: 100%;
 }
 
 .container-menu-title > hr {
+  width: 100%;
   margin: 1.25rem auto;
 }
 
@@ -14,5 +16,4 @@
   font-weight: 900;
   letter-spacing: .625rem;
 }
-
 
