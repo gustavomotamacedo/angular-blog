@@ -1,0 +1,35 @@
+.container-small-card {
+  width: 31.25em;
+  height: 6.25rem;
+  margin: 0 0 1.313rem;
+}
+
+.content-small-card{
+  display: flex;
+  flex-direction: row;
+}
+
+.photo {
+  flex: 1;
+  height: 100%;
+  margin: 0 .625rem 0 0;
+}
+
+.photo > img {
+  width: 100%;
+  height: 100%;
+}
+
+.title {
+  flex: 2;
+  align-self: center;
+}
+
+.title > a {
+  font-size: 1.4rem;
+  font-weight: bold;
+}
+
+.divisor {
+  opacity: .50;
+}
