@@ -1,7 +1,11 @@
+.container-menu-bar {
+  margin: 1.313rem 0 0 0;
+}
 .container-menu-bar > ul {
   display: flex;
   flex-direction: row;
   list-style: none;
+  justify-content: center;
 }
 
 .container-menu-bar li {
