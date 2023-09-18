@@ -2,6 +2,7 @@
   width: 31.25em;
   height: 6.25rem;
   margin: 0 0 1.313rem;
+  border-radius: 0.313rem 0.313rem 0 0;
 }
 
 .content-small-card{
@@ -18,6 +19,7 @@
 .photo > img {
   width: 100%;
   height: 100%;
+  border-radius: 0.313rem 0 0 0;
 }
 
 .title {
