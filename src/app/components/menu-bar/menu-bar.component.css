@@ -7,3 +7,10 @@
 .container-menu-bar li {
   margin: auto .625rem;
 }
+
+.container-menu-bar li :hover {
+  font-size: 1.01rem;
+  font-weight: bolder;
+  transition-duration: .5s;
+}
+
