@@ -23,7 +23,23 @@
   text-align: center;
 }
 
+.content-description {
+  width: calc(100% - 20rem);
+}
+
 .content-description > p{
   color: #969696;
   text-align: justify;
+}
+
+.content-back-btn {
+  margin: 0.625rem 0 1.25rem 0;
+  font-size: 1rem;
+  font-weight: lighter;
+}
+.content-back-btn :hover {
+  font-size: 1.01rem;
+  font-weight: bolder;
+  letter-spacing: 0.1rem;
+  transition-duration: .05s;
 }
