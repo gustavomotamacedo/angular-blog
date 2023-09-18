@@ -19,6 +19,7 @@
 .content-title {
   margin: 1.25rem auto;
   font-size: 2rem;
+  text-align: center;
 }
 
 .content-description > p{
